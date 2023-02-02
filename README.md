@@ -1,3 +1,3 @@
-# Hi there 👋, I am Md Omar Faruk
+# Hi there 👋, I am 
 
-# MERN Stack Devloper
+# JavaScript Devloper
